@@ -69,7 +69,7 @@ public class App
                         
                         break;
                     case 2:
-                        System.out.println("Listaa kulkuneuvot ");
+                        //System.out.println("Listaa kulkuneuvot ");
                         for (Vehicle vehicle: vehicles) {
                             vehicle.printSpecs();
                         }
